@@ -1,2 +1,2 @@
-# Class-Assessments
-This Is Class Assessment Of Developers
+# Class-Assignments
+This Is Class Assignment Of Developers
